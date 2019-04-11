@@ -1,0 +1,13 @@
+/*
+ Theme Name: Twenty Seventeen Child
+ Description: Twenty Seventeen Child Theme
+ Author: Yana
+ Template: twentyseventeen
+ Version: 1.1
+ Text Domain: twentyseventeen-child
+ */
+
+ .site-content-contain {
+    background-color: beige;
+    color: green;
+}
